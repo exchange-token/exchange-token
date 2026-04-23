@@ -1,5 +1,5 @@
 # robots.txt for DApp Exchange
-# https://dapp-exchange.com/
+# https://exchange-token.github.io/
 
 User-agent: *
 Allow: /
@@ -35,4 +35,4 @@ Disallow: /admin/
 Disallow: /private/
 
 # Sitemap location
-Sitemap: https://dapp-exchange.com/sitemap.xml
+Sitemap: https://exchange-token.github.io/sitemap.xml
